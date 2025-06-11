@@ -48,7 +48,7 @@ div.desc {
   justify-content: center;
 }
 
-.firstrow, .secondrow, .thirdrow, .fourthrow {
+.firstrow, .secondrow, .thirdrow, .fourthrow, .row5, .row6, .row7, .row8, .row9, .row10, .row11, .row12, .row13, .row14, .row15v16, .row17, .row18, .row19, .row20, .row21, .row22, .row23 {
   display: flex;
   flex-direction: row;
 }
