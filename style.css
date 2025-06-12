@@ -46,13 +46,16 @@ div.desc {
   width: 24.99999%;
   align-content: center;
   justify-content: center;
-  border-width: 5px;
-  border-color: green;
 }
 
 .firstrow, .secondrow, .thirdrow, .fourthrow, .row3andahalf,.row5, .row6, .row7, .row8, .row9, .row10, .row11, .row12, .row13, .row14, .row15, .row16, .row17, .row18, .row19, .row20, .row21, .row22, .row23 {
   display: flex;
   flex-direction: row;
+}
+
+.goodbye {
+  display: flex;
+  justify-content: center;
 }
 
 .header, .smallerheader {
